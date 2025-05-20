@@ -9,3 +9,5 @@ spring:
       ddl-auto: validate
 server:
   port: ${PORT:8080}
+  error:
+    include-message: always
