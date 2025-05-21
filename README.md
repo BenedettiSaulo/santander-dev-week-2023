@@ -9,7 +9,7 @@ Java RESTful API created for Santander Deb Week
   - **OpenAPI (Swagger)**
   - **Railway**
 
-## [Link do Figma](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
+## [Figma Link](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
 
 Figma was used to abstract the domain of this API, being useful in the analysis and design of the solution
 
